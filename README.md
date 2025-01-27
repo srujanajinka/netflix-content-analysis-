@@ -49,16 +49,6 @@ A sharp increase in content additions occurred between 2015 and 2019, aligning w
 - **Visualization**: PCA and t-SNE for cluster analysis
 
 ---
-##Results and Applications
-Netflix:
-Improve content recommendations.
-Identify gaps in content library.
-Users:
-Help viewers find content based on themes.
-Future Work
-Integrate external data (e.g., IMDb ratings) for deeper insights.
-Use advanced NLP models like BERT for clustering.
-Compare Netflix trends with competitors like Hulu and Prime Video.
 
 
 
