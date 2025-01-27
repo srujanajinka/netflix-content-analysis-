@@ -49,7 +49,7 @@ A sharp increase in content additions occurred between 2015 and 2019, aligning w
 - **Visualization**: PCA and t-SNE for cluster analysis
 
 ---
-Results and Applications
+##Results and Applications
 Netflix:
 Improve content recommendations.
 Identify gaps in content library.
